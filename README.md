@@ -122,4 +122,9 @@ Essa abordagem combina a robustez dos bancos relacionais para consistência tran
 
 
 ## Considerações e melhorias
+- Faltou implementar a camada de testes do controller
+- Adicionar o swagger
+- Criaçao de teste de componente 
+- No readme adicionar como rodar os testes
+- Na aplication usar um argumento para carregar os dados do banco de dados
 
